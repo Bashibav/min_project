@@ -1,2 +1,0 @@
-speak("Shutting down.")
-        break
